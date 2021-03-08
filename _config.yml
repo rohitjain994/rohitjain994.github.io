@@ -19,29 +19,29 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
+  # - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : Rohit Jain
-  image             : https://media-exp1.licdn.com/dms/image/C5103AQHAbJzs3lzQNQ/profile-displayphoto-shrink_800_800/0/1550681200047?e=1620864000&v=beta&t=EtTTSST-yqsz0ggDdp2f9hDgZrV3KkTeFDMSzXn9Yj0
-  behance           : your_username
+  image             : ./images/profile.jpge
+  # behance           : your_username
 # dribbble          : your_username
   email             : rohitjain994@gmail.com
-  facebook          : rohitjain994
+  # facebook          : rohitjain994
   github            : rohitjain994
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : rohit--jain
-  medium            : your_username
+  # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  # twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -56,20 +56,20 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+  # elements:                                             # For Documentation Only
+  #   output: true                                        # For Documentation Only
 
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: rohitjain                    # Your website Shortname on disqus
 
 
 ### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
+# analytics:
+#   enabled: false                                        # Set true to enable analytics
+#   google:
+#     tracking_id: your-google-tracking-id
 
 
 ### Defaults for collections ###
@@ -79,11 +79,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  # - scope:                                              # For Documentation Only
+  #     path: ""                                          # For Documentation Only
+  #     type: "elements"                                  # For Documentation Only
+  #   values:                                             # For Documentation Only
+  #     layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
