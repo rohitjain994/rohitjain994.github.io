@@ -1,10 +1,10 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Rohit Jain
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/portfolYOU"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "/rohitjain994"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : YoussefRaafatNasry/portfolYOU     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
@@ -28,13 +28,13 @@ author:
   image             : https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : rohitjain994@gmail.com
+  facebook          : rohitjain994
+  github            : rohitjain994
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : rohit--jain
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
