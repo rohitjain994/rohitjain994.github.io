@@ -1,6 +1,6 @@
 - name: HTML5/CSS3
-  percentage: 90
-  color: danger
+  percentage: 30
+  color: secondary
 
 - name: Go
   percentage: 80
