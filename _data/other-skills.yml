@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Kubernetes
+  percentage: 80
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Cloud(AWS/Azure)
+  percentage: 80
+  color: success
+
+- name: CI/CD
+  percentage: 70
+  color: secondary
+
+- name: Jenkins
+  percentage: 60
+  color:
+
+- name: Terraform/Ansible
+  percentage: 70
   color: success
