@@ -9,11 +9,3 @@
 - name: CI/CD
   percentage: 70
   color: secondary
-
-- name: Jenkins
-  percentage: 60
-  color:
-
-- name: Terraform/Ansible
-  percentage: 70
-  color: success
