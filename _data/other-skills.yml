@@ -6,6 +6,6 @@
   percentage: 80
   color: success
 
-- name: CI/CD
+- name: Django
   percentage: 70
   color: secondary
